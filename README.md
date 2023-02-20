@@ -1,3 +1,5 @@
+# V0.0.1
+
 ## Input Generator
 
 ### Configuration
@@ -37,4 +39,3 @@
 - path - (default: “input.in”) the path to the input file
 - n - number of MPI processes
 - seed- (default: 0) seed used to generate random numbers
-
